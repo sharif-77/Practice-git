@@ -1,2 +1,3 @@
 ECHO is on.
 im text file
+added new line
